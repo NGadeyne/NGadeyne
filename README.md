@@ -9,7 +9,7 @@ Actually:
 👨‍💻 I’m currently working on a WebAgency
 </br>🌱 I’m currently learning Vue.JS
 </br>🎾 I'm sport lover, especially the tennis
-</br>👮‍♂️ Fun fact : Before this, I was Gendarme
+</br>👮‍♂️ Fun fact: Before this, I was Gendarme
 </br>📫 Reach me: contact@nicolas-gadeyne.fr
 
 Stack:
