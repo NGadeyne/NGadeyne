@@ -16,8 +16,9 @@ Stack:
 
 ➡️ HTML5
 </br>➡️ CSS3, TailWind, Sass
-</br>➡️ Vue.JS, VueCLI, VueX, Nuxt.JS (WIP)
-</br>➡️ Typescript (WIP)
+</br>➡️ Vue.JS, VueCLI, VueX, Nuxt.JS (WIP) 
+</br>➡️ Typescript (To learn)
+</br>➡️ GraphQL, Apollo (To learn)
 
 Softskills:
 
