@@ -18,7 +18,8 @@ Stack:
 </br>➡️ CSS3, TailWind, Sass
 </br>➡️ Vue.JS, VueCLI, VueX, Nuxt.JS (WIP) 
 </br>➡️ Typescript (To learn)
-</br>➡️ GraphQL, Apollo (To learn)
+</br>➡️ Otehrs: Python, Django, Php, Wordpress
+
 
 Softskills:
 
