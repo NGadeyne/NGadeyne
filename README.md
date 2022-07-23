@@ -2,7 +2,7 @@
 
 Hey there! 👋 
 
-I'm Nicolas from France, living in Arcachon 🏖, Vue.JS developper and Project Manager.
+I'm Nicolas from France, living in Arcachon 🏖, Project Manager and Vue.JS developper.
 
 Actually:
 
