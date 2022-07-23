@@ -18,8 +18,8 @@ Stack:
 </br>➡️ CSS3, TailWind, Sass
 </br>➡️ Vue.JS, VueCLI, VueX, Nuxt.JS (WIP) 
 </br>➡️ Typescript (To learn)
-</br>➡️ Otehrs: Python, Django, Php, Wordpress
-
+</br>➡️ Others: Python, Django, Php, Wordpress
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngadeyne&theme=tokyonight&layout=compact)]()
 
 Softskills:
