@@ -20,6 +20,7 @@ Stack:
 </br>➡️ Typescript (To learn)
 </br>➡️ Otehrs: Python, Django, Php, Wordpress
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngadeyne&theme=tokyonight&layout=compact)]()
 
 Softskills:
 
