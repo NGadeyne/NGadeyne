@@ -16,9 +16,9 @@ Stack:
 
 ➡️ HTML5
 </br>➡️ CSS3, TailWind, Sass
-</br>➡️ Vue.JS, VueCLI, VueX, Nuxt.JS (WIP) 
-</br>➡️ Typescript (To learn)
-</br>➡️ Others: Python, Django, Php, Wordpress
+</br>➡️ Python, Django, Flask.
+</br>➡️ Learning: Vue.JS.
+</br>➡️ Others: Php, Wordpress, Javascript.
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngadeyne&theme=tokyonight&layout=compact)]()
