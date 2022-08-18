@@ -27,7 +27,7 @@ Softskills:
 
 ➡️ Management
 </br>➡️ Project Manager
-</br>➡️ Team spirit
+</br>➡️ Communication
 </br>➡️ flexibility
 
 Stats:
